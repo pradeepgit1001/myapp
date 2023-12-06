@@ -74,3 +74,5 @@ The project structure is organized into three main components:
    - Enter an integer in the form, submit it, and view the processed output.
 
 Follow these steps to set up and run the simple web application on a Windows environment.
+
+![Local Image](OUTPUT_IMAGE.png)
